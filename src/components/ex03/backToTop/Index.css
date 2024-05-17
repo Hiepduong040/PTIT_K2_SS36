@@ -1,0 +1,7 @@
+.btn-back-top {
+    position: fixed;
+    margin-top: 430px;
+    margin-left: 1350px;
+    background-color: rgb(164, 225, 164);
+    border-radius: 10px;
+}
